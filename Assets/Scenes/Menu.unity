@@ -473,6 +473,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1109118898}
     m_Modifications:
+    - target: {fileID: 2986036209044361310, guid: 202ab8804794fd54bb6e73d2af1fb3fd, type: 3}
+      propertyPath: index
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 5512856485871731176, guid: 202ab8804794fd54bb6e73d2af1fb3fd, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -5147,9 +5151,9 @@ MonoBehaviour:
   topBarDivider: {fileID: 848493327}
   menuScreenAudioListener: {fileID: 1713637882}
   startButtonSprites:
-  - {fileID: 21300000, guid: 1e9c1ef0c0971f44d96f1d972582d78e, type: 3}
-  - {fileID: 21300000, guid: de9eb54d7ee080f4dbd8859ed8dab271, type: 3}
-  - {fileID: 21300000, guid: 2ab54b3bac153db4f9d9523958402887, type: 3}
+  - {fileID: 21300000, guid: 3beec6b45bdaa1c43afd1b81190155db, type: 3}
+  - {fileID: 21300000, guid: 3beec6b45bdaa1c43afd1b81190155db, type: 3}
+  - {fileID: 21300000, guid: 3beec6b45bdaa1c43afd1b81190155db, type: 3}
   textMaterials:
   - {fileID: 2100000, guid: c6751e3c42b2990438c0764e5bd011f8, type: 2}
   - {fileID: 2100000, guid: 06050a8d9be7d7c418b99d28b1fe7065, type: 2}
@@ -6072,6 +6076,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1109118898}
     m_Modifications:
+    - target: {fileID: 2986036209044361310, guid: 202ab8804794fd54bb6e73d2af1fb3fd, type: 3}
+      propertyPath: index
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 5512856485871731176, guid: 202ab8804794fd54bb6e73d2af1fb3fd, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -8759,6 +8767,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1109118898}
     m_Modifications:
+    - target: {fileID: 2986036209044361310, guid: 202ab8804794fd54bb6e73d2af1fb3fd, type: 3}
+      propertyPath: index
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 5512856485871731176, guid: 202ab8804794fd54bb6e73d2af1fb3fd, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -11824,6 +11836,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1109118898}
     m_Modifications:
+    - target: {fileID: 2986036209044361310, guid: 202ab8804794fd54bb6e73d2af1fb3fd, type: 3}
+      propertyPath: index
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 5512856485871731176, guid: 202ab8804794fd54bb6e73d2af1fb3fd, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -12954,6 +12970,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1109118898}
     m_Modifications:
+    - target: {fileID: 2986036209044361310, guid: 202ab8804794fd54bb6e73d2af1fb3fd, type: 3}
+      propertyPath: index
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5512856485871731176, guid: 202ab8804794fd54bb6e73d2af1fb3fd, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -13729,11 +13749,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4829137296780884568, guid: cf22dcc58e8a2294b970fdc5d44d4605, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -311.3
+      value: 28.4
       objectReference: {fileID: 0}
     - target: {fileID: 4829137296780884568, guid: cf22dcc58e8a2294b970fdc5d44d4605, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -113
+      value: 12.6
       objectReference: {fileID: 0}
     - target: {fileID: 4829137296780884568, guid: cf22dcc58e8a2294b970fdc5d44d4605, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x

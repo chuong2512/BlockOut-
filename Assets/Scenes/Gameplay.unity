@@ -5048,9 +5048,9 @@ MonoBehaviour:
   - {fileID: 404172898}
   - {fileID: 8802506031197382534}
   backgroundSprites:
-  - {fileID: 21300000, guid: 28b542129bef33a429b6c96b162b095f, type: 3}
-  - {fileID: 21300000, guid: 28b542129bef33a429b6c96b162b095f, type: 3}
-  - {fileID: 21300000, guid: 28b542129bef33a429b6c96b162b095f, type: 3}
+  - {fileID: 21300000, guid: ba25c4387ae8e9e4d907eaa5953f861f, type: 3}
+  - {fileID: 21300000, guid: ba25c4387ae8e9e4d907eaa5953f861f, type: 3}
+  - {fileID: 21300000, guid: ba25c4387ae8e9e4d907eaa5953f861f, type: 3}
   textMaterials:
   - {fileID: 2100000, guid: d4bdcb50a821c66469622e29c402db4d, type: 2}
   - {fileID: 2100000, guid: 06050a8d9be7d7c418b99d28b1fe7065, type: 2}
