@@ -111,6 +111,7 @@ public class WinPopup : BasePopup
 
 	private async void Continue()
 	{
+		continueButton.interactable=false;
 		collectCoinEvent?.Invoke(coinContainer.localPosition-new Vector3(0,coinContainer.sizeDelta.y),500);
 
 		await Task.Delay(3000);

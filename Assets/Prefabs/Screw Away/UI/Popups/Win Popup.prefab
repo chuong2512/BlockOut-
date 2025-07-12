@@ -34,8 +34,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 534}
-  m_SizeDelta: {x: 969, y: 305}
+  m_AnchoredPosition: {x: 0, y: 478}
+  m_SizeDelta: {x: 913, y: 319}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4266794405273899433
 CanvasRenderer:
@@ -65,7 +65,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 5761f417aa9473142b3464e86efab5d6, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 926e24ab00648bf479285d02a1728841, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -229,8 +229,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -245}
-  m_SizeDelta: {x: 390, y: 162}
+  m_AnchoredPosition: {x: -87, y: -234}
+  m_SizeDelta: {x: 97, y: 102}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2540549883985487277
 CanvasRenderer:
@@ -260,7 +260,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c5ac40f2559921b4cba4c563bd0546f7, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8a0148dd60f42eb43a286a5bca21a21c, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -380,7 +380,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 72}
-  m_SizeDelta: {x: 580, y: 352}
+  m_SizeDelta: {x: 414.4736, y: 285.6908}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &5984641680097968634
 CanvasRenderer:
@@ -410,7 +410,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: a3737c59d65d54641ae745f8b7033cff, type: 3}
+  m_Sprite: {fileID: 21300000, guid: dd424184e728aff48ad0e9be200e4c80, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5513,8 +5513,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6e474e2436a2194aaa374b389882d5e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  container: {fileID: 0}
-  closeButton: {fileID: 0}
+  container: {fileID: 1651647983765838558}
+  closeButton: {fileID: 4989797512247261806}
   route: 9
   isRouteActiveFromStart: 0
   isAbleToHideOnClickOutside: 0
@@ -5613,8 +5613,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: a8d9134719eb2b64182da3a6a00a3b45, type: 3}
-  m_Type: 0
+  m_Sprite: {fileID: 21300000, guid: e814293da358b484286aa7ae7b8534bc, type: 3}
+  m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4

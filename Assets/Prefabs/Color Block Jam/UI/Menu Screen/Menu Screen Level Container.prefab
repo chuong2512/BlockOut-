@@ -188,7 +188,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6608214515438714984}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -267,10 +267,10 @@ MonoBehaviour:
   levelText: {fileID: 8918830342495802285}
   lockIcon: {fileID: 6608214515438714984}
   activeSprites:
-  - {fileID: 21300000, guid: bccdcb9583e8b944db6096f8abb185a8, type: 3}
-  - {fileID: 21300000, guid: bccdcb9583e8b944db6096f8abb185a8, type: 3}
-  - {fileID: 21300000, guid: bccdcb9583e8b944db6096f8abb185a8, type: 3}
-  disabledSprite: {fileID: 21300000, guid: 7c23d4dc2f30e45449611f7c0f9c4272, type: 3}
+  - {fileID: 21300000, guid: b4106c41737ee2c4293d3ab712f92bd8, type: 3}
+  - {fileID: 21300000, guid: b4106c41737ee2c4293d3ab712f92bd8, type: 3}
+  - {fileID: 21300000, guid: b4106c41737ee2c4293d3ab712f92bd8, type: 3}
+  disabledSprite: {fileID: 21300000, guid: bcafa9cae1fc62841996b437ada1ef22, type: 3}
   textMaterials:
   - {fileID: 2100000, guid: c6751e3c42b2990438c0764e5bd011f8, type: 2}
   - {fileID: 2100000, guid: 06050a8d9be7d7c418b99d28b1fe7065, type: 2}
@@ -305,7 +305,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: bccdcb9583e8b944db6096f8abb185a8, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b4106c41737ee2c4293d3ab712f92bd8, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
