@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.Purchasing;
 using UnityEngine.Purchasing.Extension;
 
-public class SaferioIAPManager : MonoBehaviour, IDetailedStoreListener
+public class SaferioIAPManager : MonoBehaviour
 {
     [SerializeField] private GooglePlayStoreProduct[] googlePlayStoreProducts;
     [SerializeField] private IAPDataContainer IAPDataContainer;
@@ -49,7 +49,7 @@ public class SaferioIAPManager : MonoBehaviour, IDetailedStoreListener
             googlePlayStoreProducts[i].ProductType = ProductType.Consumable;
         }
 
-        Init();
+        //Init();
 
         DontDestroyOnLoad(gameObject);
     }
@@ -63,7 +63,7 @@ public class SaferioIAPManager : MonoBehaviour, IDetailedStoreListener
         IAPShopPopup.fetchLocalizedPriceIAPEvent -= FetchLocalizedPrice;
     }
 
-    private void Init()
+    /*private void Init()
     {
         var builder = ConfigurationBuilder.Instance(StandardPurchasingModule.Instance());
 
@@ -75,11 +75,13 @@ public class SaferioIAPManager : MonoBehaviour, IDetailedStoreListener
 #endif
 
         UnityPurchasing.Initialize(this, builder);
-    }
+    }*/
 
     public void BuyProduct(string productId)
     {
-        controller.InitiatePurchase(productId);
+        IAPManager.Instance.BuyProductID(productId);
+        
+        //controller.InitiatePurchase(productId);
 
         // foreach (var productData in IAPDataContainer.ProductsData)
         // {
