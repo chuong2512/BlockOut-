@@ -48,6 +48,7 @@ public class WinPopup : BasePopup
 	private async void OnLevelWinAsync()
 	{
 		coinText.text                      =$"{0}";
+		continueButton.interactable=true;
 		continueButton.transform.localScale=Vector3.zero;
 
 		Show();
